@@ -1,0 +1,4 @@
+<Page loaded="pageLoaded">
+  <ActionBar title="mPower" class="action-bar"></ActionBar>
+  <!-- Your UI components go here -->
+</Page>

@@ -1,0 +1,15 @@
+<Page  xmlns="http://schemas.nativescript.org/tns.xsd" loaded="loaded">
+   <StackLayout>
+    <!-- Your UI components go here -->
+
+    <Label text="I'm interested in joining the mPower study because I" textWrap="true"> </Label>
+    
+    <ListPicker items="{{ groceryList }}" id="picker">
+        <ListPicker.itemTemplate let-item="item">
+        </ListPicker.itemTemplate>
+    </ListPicker>    
+
+    <Button text="Next" tap="callNext"> </Button>
+    
+    </StackLayout>
+</Page>

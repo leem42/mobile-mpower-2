@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxxhdpi/icon.png",
+        "source": "/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/src/main/res/drawable-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxxhdpi/background.png",
+        "source": "/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/src/main/res/drawable-xxxhdpi/background.png"
+    },
+    {
+        "merged": "/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxxhdpi/logo.png",
+        "source": "/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/src/main/res/drawable-xxxhdpi/logo.png"
+    }
+]
