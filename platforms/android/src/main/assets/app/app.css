@@ -6,7 +6,7 @@ Page {
     background-color: white;
     font-size: 19px;
     font-family: "Open Sans",open-sans,sans-serif;
-
+    font-weight: bold;
 }
 
 Label {
@@ -39,6 +39,13 @@ Button {
 .subtext {
     font-size: 15px;
     color: gray;
+}
+
+
+.sub-subtext {
+    font-size: 15px;
+    color: gray;
+    font-weight: normal;
 }
 
 /*

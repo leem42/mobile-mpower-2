@@ -2,5 +2,9 @@
     {
         "merged": "/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/res/merged/F0/debug/drawable-nodpi-v4/splash_screen.xml",
         "source": "/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/src/main/res/drawable-nodpi/splash_screen.xml"
+    },
+    {
+        "merged": "/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/res/merged/F0/debug/drawable-nodpi-v4/splash_screen.xml",
+        "source": "/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/src/main/res/drawable-nodpi/splash_screen.xml"
     }
 ]

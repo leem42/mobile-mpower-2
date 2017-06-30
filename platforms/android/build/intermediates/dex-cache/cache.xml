@@ -3,15 +3,6 @@
 
     <item
         is-multidex="false"
-        jar="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-25.3.1_725b8663299f7ba05b2751c54b6bcfefedf85281.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -21,21 +12,21 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/exploded-aar/mPower/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_c92615bd2f13f4a5a769d07d9f8378273698318e.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
         <dex dex="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-25.3.1_785eca726aca03c1870e884ca6ff57591a23f09e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-25.3.1_632dff8940e43b77eabf10e514e883f86065c2ad.jar" />
     </item>
     <item
         is-multidex="false"
@@ -57,6 +48,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-25.3.1_b109caad02d11e4175e5b39267988b0d5767a291.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -75,12 +75,138 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-25.3.1_3a967d7b1611cafbd0d1eee42fcea9c0f45b1719.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/exploded-aar/mPower/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30b97ea5d6274e02330dcc69943087778363c172">
+        <dex dex="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/pre-dexed/F0/debug/mPower-runtime-unspecified_eaa47255900eb402ec62e93e949162e1ebb12b48.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/usr/local/share/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
         <dex dex="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-25.3.1_d36b866c27d50890d3f323011f8cd39b4488b5cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-25.3.1_3570b8979c3140b812475916a2b5bc1afcfffb86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-25.3.1_06298cb38afb9c3ab43645b28a954ddf42ac6613.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-25.3.1_934e4a4dd6c93511e0c65edcbc24e9154c89b5f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-25.3.1_0e6a366d6915fdbc256f18503504482e6eda07e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-25.3.1_8649d804aa546c96c6fdf500afe077e8cf7de858.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-25.3.1_c57a6d8909a589473625e1dc68f7445b0d467a02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_7061ecbe1163b6fec1c86c81bac1e4e20beae898.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-25.3.1_725b8663299f7ba05b2751c54b6bcfefedf85281.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-25.3.1_632dff8940e43b77eabf10e514e883f86065c2ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-25.3.1_3f6db1445744bba4314bec260438d6106ae9b9a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-25.3.1_76437926d169e455b4651b96b705fe21fddbd5b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-25.3.1_419435002505473788c983a7d71701ac41f3075a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -102,30 +228,39 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jar="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-25.3.1_934e4a4dd6c93511e0c65edcbc24e9154c89b5f4.jar" />
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-25.3.1_f252664fb6d40e4a523d94271aa27514dbd05cfe.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jar="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-25.3.1_c57a6d8909a589473625e1dc68f7445b0d467a02.jar" />
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-25.3.1_3517b8bbf4390502f67948a361d4fa4d60359503.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jar="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
-        <dex dex="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_7061ecbe1163b6fec1c86c81bac1e4e20beae898.jar" />
+        <dex dex="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_e495515c6c893e3e922e4cfff8f9ec3079fcbe47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-25.3.1_53276d9ac6a09b2781a420469d2a294299d79b16.jar" />
     </item>
     <item
         is-multidex="false"

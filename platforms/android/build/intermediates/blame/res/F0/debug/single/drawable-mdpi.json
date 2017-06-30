@@ -1,5 +1,13 @@
 [
     {
+        "merged": "/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/background.png",
+        "source": "/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/src/main/res/drawable-mdpi/background.png"
+    },
+    {
+        "merged": "/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/logo.png",
+        "source": "/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/src/main/res/drawable-mdpi/logo.png"
+    },
+    {
         "merged": "/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/logo.png",
         "source": "/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/src/main/res/drawable-mdpi/logo.png"
     },
@@ -10,5 +18,9 @@
     {
         "merged": "/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/icon.png",
         "source": "/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/mPower/platforms/android/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/icon.png",
+        "source": "/Users/mtlee/Documents/NativeScriptDemo/Groceries_JS/gitRepoWithCode/mobile-mpower-2/platforms/android/src/main/res/drawable-mdpi/icon.png"
     }
 ]

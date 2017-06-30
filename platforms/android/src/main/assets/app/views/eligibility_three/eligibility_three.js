@@ -13,7 +13,7 @@ exports.callNext = function(args) {
     var isComfy = page.getViewById("comfy").selectedIndex;
     if(isComfy == 1) {
         console.log("will change");
-//        frameModule.topmost().navigate("views/congratulations/congratulations");
+       frameModule.topmost().navigate("views/congrats/congrats");
     }
 } 
 
