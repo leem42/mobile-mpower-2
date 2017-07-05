@@ -1,17 +1,13 @@
 <Page  xmlns="http://schemas.nativescript.org/tns.xsd" loaded="loaded">
    <StackLayout>
-    <!-- Your UI components go here -->
-
     <Label text="You would be a great fit for the mPower study!" textWrap="true"> </Label>
     <Label text="We'd just know a couple more things about you to make sure you're eligible" 
     textWrap="true" class="subtext"></Label>
-
     <Label text="I am"> </Label>
-    <ListPicker items="{{ groceryList }}" tap="callNext" id="picker">
+    <ListPicker items="{{ options }}" hint="Choose an Answer" tap="callNext" id="picker">
         <ListPicker.itemTemplate let-item="item">
         </ListPicker.itemTemplate>
     </ListPicker>    
-
     <Button text="Next" tap="callNext"> </Button>
     
     </StackLayout>

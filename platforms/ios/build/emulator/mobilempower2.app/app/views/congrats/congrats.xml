@@ -1,0 +1,13 @@
+<Page  xmlns="http://schemas.nativescript.org/tns.xsd" loaded="loaded">
+   <StackLayout>
+ 
+   <Label text="Congratulations, you're eligible!">" </Label>
+   <Label class="subtext" text="It's now time for consent, how does it work?"> </Label>
+   <Label class="sub-subtext" text="There will be 13 sections in the consent process. These
+   sections will help you to understand what is involved and how the study will 
+   work. After the consent introduction, there will be a short quiz on what you
+   have learned about the study." textWrap="true"> </Label>
+    <Button text="I'D LIKE A WALKTHROUGH"> </Button>
+    <Button text="GO STRAIGHT TO QUIZ"> </Button>
+    </StackLayout>
+</Page>

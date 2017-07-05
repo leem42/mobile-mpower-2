@@ -1,14 +1,13 @@
-<Page  xmlns="http://schemas.nativescript.org/tns.xsd" loaded="loaded">
-   <StackLayout>
-    <!-- Your UI components go here -->
-
+<Page  xmlns="http://schemas.nativescript.org/tns.xsd" loaded="loaded" >
+   <StackLayout orientation="vertical">
+   
     <Label text="I'm interested in joining the mPower study because I" textWrap="true"> </Label>
-    
-    <ListPicker items="{{ groceryList }}" id="picker">
-        <ListPicker.itemTemplate let-item="item">
+    <ListPicker items="{{ options }}" textWrap="true" id="picker">
+    <WrapLayout>
+        <ListPicker.itemTemplate textWrap="true">
         </ListPicker.itemTemplate>
+    </WrapLayout>
     </ListPicker>    
-
     <Button text="Next" tap="callNext"> </Button>
     
     </StackLayout>

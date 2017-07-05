@@ -1,25 +1,27 @@
 <Page  xmlns="http://schemas.nativescript.org/tns.xsd" loaded="loaded">
    <StackLayout>
     <!-- Your UI components go here -->
+   <Label> mPower 2.0 </Label> 
 
     <Label text="You would be a great fit for the mPower study!" textWrap="true"> </Label>
     <Label text="We'd just know a couple more things about you to make sure you're eligible" 
     textWrap="true" class="subtext"></Label>
-
-    <Label text="I am some age"> </Label>
-    <Label text="{{ age }}"></Label>
-
-     <Label text="I live in "> </Label>
-    <Label text="{{ location }}"></Label>
-     
-    <Label text="and I feel "> </Label>
     
-    <ListPicker items="{{ comfyOpt }}" id="comfy">
-        <ListPicker.itemTemplate>
+    <Label>
+        <FormattedString>
+            <Span text="I am "> </Span>
+            <Span text="{{age + ', '}}" underline="true"></Span>
+            <Span text="I live in "> </Span>
+            <Span text="{{location}}" underline="true" ></Span>    
+            </FormattedString>
+    </Label>
+
+    <Label text="and I feel"> </Label> 
+    <ListPicker items="{{ comfyOpt }}" id="comfy" >
+        <ListPicker.itemTemplate >
         </ListPicker.itemTemplate>
     </ListPicker>        
     
-    <Label text="using my phone"> </Label>
      <Button text="Next" tap="callNext"> </Button>
     
     </StackLayout>
